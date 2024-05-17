@@ -1,10 +1,6 @@
-
-![Logo](https://media.licdn.com/dms/image/D4D16AQFh5gC3GuGgMA/profile-displaybackgroundimage-shrink_350_1400/0/1673679408833?e=1680739200&v=beta&t=uaVd5Ki2gDJeG0WHtqHF7nRK3ABBi2DI9SXG7YmzoKM)
-
-
 # Hi, I'm Omprakash! 👋
 
-I am a skilled web developer and digital marketer with a passion for creating and promoting high-quality digital products and services. With several years of experience in the industry, I have developed a deep understanding of web development technologies and digital marketing strategies, and have a proven track record of delivering successful projects for clients in a range of industries. 
+I am a skilled Full-stack web developer with a passion for creating and promoting high-quality digital products and services. With several years of experience in the industry, I have developed a deep understanding of web development technologies and have a proven track record of delivering successful projects for clients in a range of industries. 
 
  My expertise includes
 
@@ -13,7 +9,6 @@ I am a skilled web developer and digital marketer with a passion for creating an
 👩‍💻 Back-end Development
 💻 Python Programming
 🛒 E-commerce Platforms 
-📑 Digital Marketing
 🔍 SEO 
 🔗 Social Media Marketing
 📧 Email Marketing
@@ -21,17 +16,15 @@ I am a skilled web developer and digital marketer with a passion for creating an
 
 I am dedicated to staying up-to-date with the latest technologies and trends, and strive to consistently deliver innovative and effective solutions that meet my clients' needs and exceed their expectations. If you're looking for a talented and experienced web developer and digital marketer, look no further!
 
-[Click here to visit my Portfolio](https://omprakashprajapati.me)
+[Click here to visit my Portfolio](https://omprakashprajapati.netlify.app)
 
 
 ## My Journey
-👩‍💻 I'm currently working on a blog website for programming and coding
+👩‍💻 I'm currently working as a Software Engineer
 
-🧠 I'm currently learning Django for Backend development
+🧠 I'm currently building projects with Django.
 
 👯‍♀️ I'm looking to collaborate on Django Projects and CMS
-
-🤔 I'm looking for help with UI/UX Designing
 
 💬 Ask me about anything
 
@@ -41,5 +34,5 @@ I am dedicated to staying up-to-date with the latest technologies and trends, an
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Tailwind CSS, PHP, MySQL, Python, Flask, Django, Wordpress, Shopify
+Javascript, HTML, CSS, Tailwind CSS, PHP, MySQL, Python, Flask, Django, , React.Js, Next.Js
 
